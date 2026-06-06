@@ -1,4 +1,4 @@
-# gemini-quant-models
+# quant-models
 
 A Python implementation of five quantitative finance mental models — tools for options pricing, market microstructure analysis, statistical arbitrage, equity valuation, and fundamental analysis prioritisation. Built to translate theoretical frameworks from financial economics into executable, well-documented code.
 
